@@ -20,3 +20,6 @@ const appAuth = getAuth();
 const appFirestore = getFirestore(app);
 
 export { appAuth, appFirestore };
+/*
+
+  */
