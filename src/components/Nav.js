@@ -9,7 +9,7 @@ export default function Nav() {
 
   return (
     <nav className={styles.nav}>
-      <h1 className={styles.title}>두근두근 비밀일기</h1>
+      <h1 className={styles.title}>이두 삼두 비밀일기</h1>
       <ul className={styles.list_nav}>
         {!user ? (
           <>
